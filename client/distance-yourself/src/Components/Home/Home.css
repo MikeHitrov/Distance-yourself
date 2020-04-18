@@ -1,0 +1,8 @@
+.back{
+    background-image: url(../../images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
+    width: 65%;
+    font-family: 'Numans', sans-serif;
+}
